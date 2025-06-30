@@ -1,6 +1,6 @@
 ---
 
-# Remote Desktop Takeover
+# Remote Desktop Takeover: TCP-Based Screen Mirroring & Remote Access System
 
 A lightweight Python-based application to simulate remote desktop control using sockets and GUI events. The server provides a virtual trackpad interface, and the client executes mouse and keyboard events locally using `pyautogui`.
 
